@@ -1,9 +1,12 @@
-amxa-puavo-os-art (1.0-1.1) UNRELEASED; urgency=medium
+amxa-puavo-os-art (1.0-4) UNRELEASED; urgency=medium
 
   * Non-maintainer upload.
   * Initial 
+  * added rounded Corners
+  * fixed error
+  * again
 
- -- Stotz Basil <stotz.basil@stretch-c3418qVh>  Mon, 08 May 2017 10:48:29 +0200
+ -- Stotz Basil <stotz.basil@stretch-c3418qVh>  Mon, 08 May 2017 11:13:37 +0200
 
 amxa-puavo-os-art (1.0-1) unstable; urgency=medium
 

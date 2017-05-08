@@ -1,0 +1,35 @@
+Format: 1.8
+Date: Mon, 08 May 2017 11:13:37 +0200
+Source: amxa-puavo-os-art
+Binary: amxa-puavo-os-art
+Architecture: source all
+Version: 1.0-4
+Distribution: UNRELEASED
+Urgency: medium
+Maintainer: Basil Stotz <stotz@amxa.ch>
+Changed-By: Stotz Basil <stotz.basil@stretch-c3418qVh>
+Description:
+ amxa-puavo-os-art - <insert up to 60 chars description>
+Changes:
+ amxa-puavo-os-art (1.0-4) UNRELEASED; urgency=medium
+ .
+   * Non-maintainer upload.
+   * Initial
+   * added rounded Corners
+   * fixed error
+   * again
+Checksums-Sha1:
+ 752599ff68e10c51b0ea2dc06f20b050ce9f35ca 606 amxa-puavo-os-art_1.0-4.dsc
+ 4548d87d03c0a0374f7bfcfa0374eb032bb91454 2808437 amxa-puavo-os-art_1.0-4.tar.gz
+ 37665962c50d7153c32a605df1e3208d5771063d 2799468 amxa-puavo-os-art_1.0-4_all.deb
+ e1e7fc7b9905e10c04b4cdc4fdb41c9babae212e 4778 amxa-puavo-os-art_1.0-4_amd64.buildinfo
+Checksums-Sha256:
+ 7d06f1b041009b9f2d48dc158a2576a128377eeaef4531f9c590e74ff31af6ec 606 amxa-puavo-os-art_1.0-4.dsc
+ 872d5ec8ea1ebe82377cb0867aba06da280c0bd53650c2df2040e3f93c53a81b 2808437 amxa-puavo-os-art_1.0-4.tar.gz
+ 716ee27cd119aa49191d3519ad3099072569a384c6148f3a5bb9e190a43c2d47 2799468 amxa-puavo-os-art_1.0-4_all.deb
+ f86804ab9308452cfee9ccee9a0bf8ed62b3634e0a68c172761fe09ee8c87ac8 4778 amxa-puavo-os-art_1.0-4_amd64.buildinfo
+Files:
+ 0adce3943fabcec31574006b888e97c9 606 unknown optional amxa-puavo-os-art_1.0-4.dsc
+ 88f871bba2742f299a9c3c9ff1e44d56 2808437 unknown optional amxa-puavo-os-art_1.0-4.tar.gz
+ f639ea55ec88f352736ad2f0dc0325c7 2799468 unknown optional amxa-puavo-os-art_1.0-4_all.deb
+ a6803a76145e5e40a861dc7815fe312c 4778 unknown optional amxa-puavo-os-art_1.0-4_amd64.buildinfo

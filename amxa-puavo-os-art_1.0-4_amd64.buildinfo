@@ -2,19 +2,19 @@ Format: 1.0
 Source: amxa-puavo-os-art
 Binary: amxa-puavo-os-art
 Architecture: all source
-Version: 1.0-1.1
+Version: 1.0-4
 Checksums-Md5:
- e7aa091bce5d1816e46c8291a3c77ebb 614 amxa-puavo-os-art_1.0-1.1.dsc
- 741efb4f5b0ee1f4ffc7c24998e8ae27 2793164 amxa-puavo-os-art_1.0-1.1_all.deb
+ 0adce3943fabcec31574006b888e97c9 606 amxa-puavo-os-art_1.0-4.dsc
+ f639ea55ec88f352736ad2f0dc0325c7 2799468 amxa-puavo-os-art_1.0-4_all.deb
 Checksums-Sha1:
- 663e98ffd3951941f70c98c2b434c58a9fbab489 614 amxa-puavo-os-art_1.0-1.1.dsc
- ce24fdeaac4cd5ba7e0d1ae18def4d2d8f2a670e 2793164 amxa-puavo-os-art_1.0-1.1_all.deb
+ 752599ff68e10c51b0ea2dc06f20b050ce9f35ca 606 amxa-puavo-os-art_1.0-4.dsc
+ 37665962c50d7153c32a605df1e3208d5771063d 2799468 amxa-puavo-os-art_1.0-4_all.deb
 Checksums-Sha256:
- ccbdb843011df383d2435374b1304eb8b5d5d87dfe1c91d4e1a487d8f25d18e6 614 amxa-puavo-os-art_1.0-1.1.dsc
- 3beea0a6ee7e9a31e975bc5f70cc0833b02354fd2af021e4a5abc90b8f2b92ee 2793164 amxa-puavo-os-art_1.0-1.1_all.deb
+ 7d06f1b041009b9f2d48dc158a2576a128377eeaef4531f9c590e74ff31af6ec 606 amxa-puavo-os-art_1.0-4.dsc
+ 716ee27cd119aa49191d3519ad3099072569a384c6148f3a5bb9e190a43c2d47 2799468 amxa-puavo-os-art_1.0-4_all.deb
 Build-Origin: Debian
 Build-Architecture: amd64
-Build-Date: Mon, 08 May 2017 10:49:07 +0200
+Build-Date: Mon, 08 May 2017 11:13:52 +0200
 Installed-Build-Depends:
  autoconf (= 2.69-10),
  automake (= 1:1.15-6),
@@ -170,4 +170,4 @@ Environment:
  DEB_BUILD_OPTIONS="parallel=2"
  LANG="de_CH.UTF-8"
  MAKEFLAGS=""
- SOURCE_DATE_EPOCH="1494233309"
+ SOURCE_DATE_EPOCH="1494234817"

@@ -21,12 +21,12 @@ set -e
 case "$1" in
     configure)
 	#ugly overwrite of opinsys art
-	cp /usr/share/amxa-art/logo.png /usr/share/opinsys-art/.
-	cp /usr/share/amxa-art/logo16.png /usr/share/opinsys-art/.
+	cp /usr/share/amxa-art/logo-rund.png /usr/share/opinsys-art/logo.png
+	cp /usr/share/amxa-art/logo-rund16.png /usr/share/opinsys-art/logo16.png
 	cp /usr/share/amxa-art/background.png /usr/share/plymouth/themes/opinsys/.
-	cp /usr/share/amxa-art/logo.png /usr/share/plymouth/themes/opinsys/.
-	cp /usr/share/amxa-art/logo16.png /usr/share/plymouth/themes/opinsys/.
-	cp /usr/share/amxa-art/logo.png /opt/webmenu/styles/theme/default/img/.
+	cp /usr/share/amxa-art/logo-rund.png /usr/share/plymouth/themes/opinsys/logo.png
+	cp /usr/share/amxa-art/logo-rund16.png /usr/share/plymouth/themes/opinsys/logo16.png
+	cp /usr/share/amxa-art/logo-rund.png /opt/webmenu/styles/theme/default/img/logo.png
     ;;
 
     abort-upgrade|abort-remove|abort-deconfigure)
