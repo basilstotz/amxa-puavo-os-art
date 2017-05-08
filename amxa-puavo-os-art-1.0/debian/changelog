@@ -1,0 +1,12 @@
+amxa-puavo-os-art (1.0-1.1) UNRELEASED; urgency=medium
+
+  * Non-maintainer upload.
+  * Initial 
+
+ -- Stotz Basil <stotz.basil@stretch-c3418qVh>  Mon, 08 May 2017 10:48:29 +0200
+
+amxa-puavo-os-art (1.0-1) unstable; urgency=medium
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Basil Stotz <stotz@amxa.ch>  Mon, 08 May 2017 10:32:03 +0200
